@@ -5,7 +5,7 @@ kill_timeout = 5
 processes = []
 
 [build]
-  image = "freshrss/freshrss:1.19.2"
+  image = "freshrss/freshrss:1.20.1"
 
 [env]
   CRON_MIN='*/20'
